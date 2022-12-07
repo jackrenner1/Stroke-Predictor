@@ -1,0 +1,5 @@
+smoking_status,smoking_value
+never smoked,0.0
+Unknown,1.0
+formerly smoked,2.0
+smokes,3.0
